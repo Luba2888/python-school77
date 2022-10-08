@@ -4,7 +4,6 @@
 print("My name is {1}, I'm {0}".format(30,"Marina"))
 print("My name is {}, I'm {}".format("Ivan",25))
 
-
 # Типы форматирования
 # Выравнивание влево
 print("I have {:<10} rubles.".format(50))
