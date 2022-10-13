@@ -18,7 +18,7 @@ print("{} * {} = {}".format(a, b, prod))
 div = a / b
 print("{} / {} = {}".format(a, b, div))
 
-# Целочисленное
+# Целочисленное деление
 div_int = a // b
 print("{} // {} = {}".format(a, b, div_int))
 
