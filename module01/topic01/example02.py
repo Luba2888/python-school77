@@ -1,8 +1,8 @@
 # Форматирование строки
 # format() - форматирует указанное(ые) значение(я) и вставляет их внутрь заполнителя строки
 # Заполнитель задается с помощью фигурных скобок: {}
-print("My name is {1}, I'm {0}".format(30,"Marina"))
-print("My name is {}, I'm {}".format("Ivan",25))
+print("My name is {1}, I'm {0}".format(30, "Marina"))
+print("My name is {}, I'm {}".format("Ivan", 25))
 
 # Типы форматирования
 # Выравнивание влево
@@ -11,7 +11,7 @@ print("I have {:<10} rubles.".format(50))
 print("I have {:>10} rubles.".format(50))
 # Выравнивание по центру
 print("I have {:^10} rubles.".format(50))
-# Знак числа в крайнее левое положение 
+# Знак числа в крайнее левое положение
 print("I have {:=10} rubles.".format(-50))
 
 # Двоичная система счисления
