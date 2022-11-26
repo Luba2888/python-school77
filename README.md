@@ -5,7 +5,7 @@
 - МБОУ Школа №77 г.о.Самара
 
 ### Преподаватель:
-- Кузьмин Вячеслав Александрович
+- [Vyacheslav Kuzmin](https://github.com/kuzminprog)
 
 ### Дополнительная справочная информация по учебной программе
 #### Модуль 1:
@@ -16,3 +16,4 @@
 -  [Тема 3. Работа с целыми числами (Часть 2)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic03_02)
 -  [Тема 4. Условный оператор (Часть 1)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic04_01)
 -  [Тема 4. Условный оператор (Часть 2)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic04_02)
+-  [Тема 4. Условный оператор (Часть 3)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic04_03)
