@@ -18,5 +18,5 @@
 - [Тема 4. Условный оператор (Часть 2)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic04_02)
 - [Тема 4. Условный оператор (Часть 3)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic04_03)
 - [Тема 4. Условный оператор (Часть 4)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic04_04)
-- [Тема 4. Типы данных (Часть 1)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic05_01)
-- [Тема 4. Типы данных (Часть 2)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic05_02)
+- [Тема 5. Типы данных (Часть 1)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic05_01)
+- [Тема 5. Типы данных (Часть 2)](https://github.com/kuzminprog/python_school77/tree/main/module01/topic05_02)
