@@ -10,7 +10,7 @@ number = random.randint(5, 10)
 print(number)
 
 # random.randrange() - генерация целого случайного числа из набора чисел
-number = random.randrange(10,100,5)
+number = random.randrange(10, 100, 5)
 print(number)
 
 # random uniform() - генерация вещественного числа в промежутке
@@ -33,5 +33,3 @@ print(seconds)
 print("Старт!")
 seconds = time.sleep(2)
 print("Финиш!")
-
-
